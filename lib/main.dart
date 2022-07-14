@@ -135,7 +135,7 @@ Widget categories() {
         ),
         CategoryListItem(
           image: Image.asset('lib/images/hpy.jpg'),
-          categoryName: "Happy Meal",
+          categoryName: "Happy Meal!",
           selected: false,
         ),
       ],
